@@ -1,1 +1,2 @@
-Hellow Sir
+print ("Hello Sir")
+print ("Good morning")
